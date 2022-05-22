@@ -4,8 +4,8 @@
 Pyber requested that we conduct data analysis on ride-sharing data by city type and use the data to determine any recommendations for the CEO for addressing any disparities among the different city types. 
 
 ## Resources
--Data Source: city_data.csv, ride_data.csv
--Software: Jupyter, Python 3.6.1, pandas data analysis tool, conda 4.12.0
+- Data Source: city_data.csv, ride_data.csv
+- Software: Jupyter, Python 3.6.1, pandas data analysis tool, conda 4.12.0
 	
 ## Results:
 Looking at our data, we can agree that Urban is the most popular city type for our company. Urban total fares are about 8 times more than rural and almost 2 times more than suburban. Total rides for urban are more than 2 times as much as suburban total rides and almost 13 times more than rural. Total drivers for urban are more than 3  times as much as suburban and 20 times greater than rural. We can see some disparities  for our rural customers. They do not have many drivers and the total rides are most likely due to the fare of the ride. The average fare per ride is $34.62 for a rural customer and $24.53 for an urban customer. 
