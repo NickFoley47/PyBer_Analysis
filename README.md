@@ -35,7 +35,7 @@ Summary Data Frame:
 
 ![Summary]( https://github.com/NickFoley47/PyBer_Analysis/blob/main/analysis/Summary.PNG)
 
-Analyzing the Total Fare by City Type graph we can observe 3 spikes in fares in February through April for our Urban customers. We have 1 spike for our Suburban customers and 2 spikes in our data. We can notice a relation of spikes at the same time around February, which I believe is representing Valentine’s Day for our customers. We can see suburban total fare increasing as the summer months approach. 
+Analyzing the Total Fare by City Type graph we can observe 3 spikes in fares in February through April for our Urban customers. We have 1 spike for our Suburban customers We have 2 spikes for our rural customers. We can notice a relation of spikes at the same time around February, which I believe is representing Valentine’s Day for our customers. We can see suburban total fare increasing as the summer months approach. 
 
 Total Fare by City Type:
 
