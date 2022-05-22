@@ -10,33 +10,35 @@ Pyber requested that we conduct data analysis on ride-sharing data by city type 
 ## Results:
 Looking at our data, we can agree that Urban is the most popular city type for our company. Urban total fares are about 8 times more than rural and almost 2 times more than suburban. Total rides for urban are more than 2 times as much as suburban total rides and almost 13 times more than rural. Total drivers for urban are more than 3  times as much as suburban and 20 times greater than rural. We can see some disparities  for our rural customers. They do not have many drivers and the total rides are most likely due to the fare of the ride. The average fare per ride is $34.62 for a rural customer and $24.53 for an urban customer. 
 - Urban data:
-Total Rides: 1,625
-Total Drivers: 2,406
-Total Fares: $39, 854.38
-Average Fare per Ride: $24.53
-Average fare per Driver: $16.57
+	- Total Rides: 1,625
+	- Total Drivers: 2,406
+	- Total Fares: $39, 854.38
+	- Average Fare per Ride: $24.53
+	- Average fare per Driver: $16.57
 - Suburban data:
-Total Rides: 625
-Total Drivers: 490
-Total Fares: $19, 356.33
-Average Fare per Ride: $30.97
-Average fare per Driver: $39.50
+	- Total Rides: 625
+	 -Total Drivers: 490
+	- Total Fares: $19, 356.33
+	- Average Fare per Ride: $30.97
+	- Average fare per Driver: $39.50
 - Rural data:
 	- Total Rides: 125
-Total Drivers: 78
-Total Fares: $4,327.93
-Average Fare per Ride: $34.62
-Average fare per Driver: $55.49
+	- Total Drivers: 78
+	- Total Fares: $4,327.93
+	- Average Fare per Ride: $34.62
+	- Average fare per Driver: $55.49
 
 
 
 
 Summary Data Frame:
+
 ![Summary]( https://github.com/NickFoley47/PyBer_Analysis/blob/main/analysis/Summary.PNG)
 
 Analyzing the Total Fare by City Type graph we can observe 3 spikes in fares in February through April for our Urban customers. We have 1 spike for our Suburban customers and 2 spikes in our data. We can notice a relation of spikes at the same time around February, which I believe is representing Valentine’s Day for our customers. We can see suburban total fare increasing as the summer months approach. 
 
 Total Fare by City Type:
+
 ![PyBer_fare_summary](https://github.com/NickFoley47/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 
