@@ -17,7 +17,7 @@ Looking at our data, we can agree that Urban is the most popular city type for o
 	- Average fare per Driver: $16.57
 - Suburban data:
 	- Total Rides: 625
-	 -Total Drivers: 490
+	- Total Drivers: 490
 	- Total Fares: $19, 356.33
 	- Average Fare per Ride: $30.97
 	- Average fare per Driver: $39.50
