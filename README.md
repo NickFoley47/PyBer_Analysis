@@ -45,6 +45,6 @@ Total Fare by City Type:
 
 ## Pyber Recommendations:
 My recommendations for Pyber:
-1.	Increasing total drivers in the Rural area. Total rides will increase if we can decrease the average fare per ride. Rural has 125 rides with only 78 drivers while urban has 2,406 drivers for 1,625 drivers. 
+1.	Increasing total drivers in the Rural area. Total rides will increase if we can decrease the average fare per ride. Rural has 125 rides with only 78 drivers while urban has 2,406 drivers for 1,625 riders. 
 2.	Offer incentives for drivers giving more rides in Rural areas. Allowing an incentive will help with completing my first recommendation while increasing drivers the average fare per ride will decrease. 
 3.	We can offer incentives for our drivers on weekday evenings when most people are shopping and traveling. With this incentive we can increase our drivers and increase the total fares for all three city types. 
